@@ -6,14 +6,14 @@
 	- Intel HD 4000
 # Working
 	- CPU 
-	- LAN
+	- LAN - Ethernet
 	- USB
 	- Keyboard
 	- Audio
 	- Microphone
 	- Intel HD 4000
 # Don't Working
-	- Geforce GT630M
+	- Geforce GT630M (Disable)
 	- Wifi AR9485 ( join wifi but not IP Address)
 
 # Working in Mac Sierra , after install copy folder 'Clover' to partion EFI\EFI\
